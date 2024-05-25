@@ -45,7 +45,7 @@ OPTION 2 for Linux, Windows and Mac users that want to run the free code:
 ```
 npm install
 ```
- this will install all modules required to run the bot
+ this will install all modules required to run the bot - Fill your private key and node in variables file
  
 3. double click start.bat for windows users, or start.sh for mac after making it executable
 
