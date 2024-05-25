@@ -34,7 +34,7 @@
 
 OPTION 1, select your OS and download an executable GUI:
   
-  [![OS](os.png)](https://defix.shop/portfolio/base-sniping-bot-newest/)
+  [![OS](os.png)](https://defix.shop/product/solana-sniping-bot-ultimate/)
   
 OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
   
