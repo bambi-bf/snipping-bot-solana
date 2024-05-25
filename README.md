@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="solana.png" width="200"/>
+  <img src="solana.jpg" width="200"/>
   <h1>SOLX</h1>
   <h2>Solana V6 Auto/Manual Sniper</h2>
   <p>Free V6 sniper trial from DeFiX Labs</p>
