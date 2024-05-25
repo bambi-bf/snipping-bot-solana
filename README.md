@@ -49,6 +49,11 @@ npm install
  
 3. double click start.bat for windows users, or start.sh for mac after making it executable
 
+4. If you want to run in terminal
+```
+node buy.js
+```
+
 
 ## 📝 Changelog
 
