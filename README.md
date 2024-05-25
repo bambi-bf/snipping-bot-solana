@@ -32,28 +32,23 @@
 
 ## 📦 Install
 
-OPTION 1, select your OS and download an executable GUI:
+OPTION 1, Buy the Premium bot with executable GUI here:
   
   [![OS](os.png)](https://defix.shop/product/solana-sniping-bot-ultimate/)
   
-OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
+OPTION 2 for Linux, Windows and Mac users that want to run the free code:
   
-1. Download python3.7.2+ for your PC from python org
+1. Download nodejs for your PC from nodejs.org
 
 2. Open terminal in the bot folder and type 
 
 ```
-pip3 install -r requirements.txt
+npm install
 ```
  this will install all modules required to run the bot
  
-3. In the same terminal type 
+3. double click start.bat for windows users, or start.sh for mac after making it executable
 
-```
-python3 ethereum.py
-```
-The GUI will pop up
-```
 
 ## 📝 Changelog
 
